@@ -68,20 +68,16 @@ As part of my **Python Internship with Codec Technologies**, this project helped
 ### 1. Clone the Repository
 
   ```bash
-  git clone https://github.com/your-username/real-time-stock-dashboard.git
+  git clone https://github.com/aasiya-hadiya/real-time-stock-dashboard.git
   cd real-time-stock-dashboard
 
 ### 2. Install Dependencies
   python -m venv venv
   source venv/bin/activate
   
- *Install the required packages:
-   pip install -r requirements.txt
 
   pip install streamlit yfinance plotly pandas ta pytz
 
-### 3. Run the App
-  streamlit run your_script_name.py
 
 📝 License:
   This project is for educational and internship use only.
