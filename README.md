@@ -1,8 +1,14 @@
 **Name:** AASIYA HADIYA
+
 **Company:** CODEC TECHNOLOGIES
+
 **ID:** E19E86-0116588288923
+
 **Domain:** Python Developer
+
 **Duration:** 01/09/2025 to 01/10/2025
+
+
 
 
 📊 #**Real-Time Stock Market Dashboard:**
@@ -71,13 +77,19 @@ As part of my **Python Internship with Codec Technologies**, this project helped
   git clone https://github.com/aasiya-hadiya/real-time-stock-dashboard.git
   cd real-time-stock-dashboard
 
-### 2. Install Dependencies
+
+### 2.Install Dependencies
   python -m venv venv
   source venv/bin/activate
+
+
+  ##Install the required packages:
+
+    pip install -r requirements.txt
   
 
-  pip install streamlit yfinance plotly pandas ta pytz
-
+  ##Run the App
+    streamlit run dashboard.py
 
 📝 License:
   This project is for educational and internship use only.
