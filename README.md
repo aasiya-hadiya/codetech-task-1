@@ -4,7 +4,7 @@
 
 **ID:** E19E86-0116588288923
 
-**Domain:** Python Developer
+**Designation:** Python Developer Intern
 
 **Duration:** 01/09/2025 to 01/10/2025
 
